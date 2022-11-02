@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: "Comic Sans MS";
+    font-size: 40px;
+}
+
+.container{
+    background-color: rgb(255, 115, 0);
+    font-size: 40px;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+    width: 30%;
+    margin: 40px;
+}
+
+.headings{
+    color: blue;
+    font-size: 60px;
+}
+
+input{
+    color: brown;
+}
